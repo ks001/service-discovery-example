@@ -39,5 +39,6 @@ inside a directory of the application.
 You should wait until each server starts. 
 
 - Eureka server : http://localhost:8761/
+- Server direct call: http://localhost:9098/customer/1
 - Rest template example : http://localhost:9099/customer-client/1
 - Feign example : http://localhost:9099/customer-client-feign/1
